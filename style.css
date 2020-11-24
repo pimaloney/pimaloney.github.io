@@ -18,6 +18,7 @@ body,html {
 	background-color: #FFF;
 }
 .header {
+    overflow: hidden;
     background-color: #a60000;
     width: 100%;
     height: 80px;
