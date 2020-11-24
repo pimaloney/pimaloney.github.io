@@ -107,6 +107,9 @@ nav ul {
     margin: auto;
     border: none;
 }
+#weirdBreak {
+	margin-top: 70px;
+}
 main {
 	float: left;
 	width: 60%;
